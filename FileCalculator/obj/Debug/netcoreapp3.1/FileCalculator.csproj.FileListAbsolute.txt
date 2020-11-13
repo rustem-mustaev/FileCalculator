@@ -1,0 +1,13 @@
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\bin\Debug\netcoreapp3.1\FileCalculator.exe
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\bin\Debug\netcoreapp3.1\FileCalculator.deps.json
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\bin\Debug\netcoreapp3.1\FileCalculator.runtimeconfig.json
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\bin\Debug\netcoreapp3.1\FileCalculator.runtimeconfig.dev.json
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\bin\Debug\netcoreapp3.1\FileCalculator.dll
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\bin\Debug\netcoreapp3.1\FileCalculator.pdb
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.csprojAssemblyReference.cache
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.AssemblyInfoInputs.cache
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.AssemblyInfo.cs
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.dll
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.pdb
+C:\Users\ruste\source\repos\FileCalculator\FileCalculator\obj\Debug\netcoreapp3.1\FileCalculator.genruntimeconfig.cache
